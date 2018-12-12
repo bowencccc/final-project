@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">The Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="version">Calculator V2.0</string>
+    <string name="InputIniStr">Please enter the expression.</string>
+    <string name="derive">Derive</string>
+    <string name="integrate">Integrate</string>
+    <string name="ButtonTitle">Calculate</string>
+    <string name="OutputIniStr">Result</string>
+    <string name="DialogTitle">We are sorry.</string>
+    <string name="DialogContent">This is under construction.</string>
+    <string name="PosReplytoDlg">That\'s alright.</string>
+    <string-array name="modes">
+        <item>Go Calculation.</item>
+        <item>Do Calculus.</item>
+        <item>Simplify Expressions.</item>
+    </string-array>
+    <string-array name="response_to_easy_questions">
+        <item>Easy-peasy~~</item>
+        <item>Why not do it yourself? Oh I know; you\'re testing me.</item>
+        <item>Maybe you\'ve already got it while typing.</item>
+    </string-array>
+    <string-array name="response_again_to_easy_questions">
+        <item>Hey I\'ve told you THIS IS SO EASY!!</item>
+        <item>Erhhh I\'m rusted... Come with tougher one next time plz!</item>
+        <item>Error 159: Question Too Easy.</item>
+    </string-array>
+    <string-array name="response_to_hard_questions">
+        <item>This is a little bit hard... Here you go.</item>
+        <item>Thank you for this one; and here\'s the answer.</item>
+        <item>Well, actually this one is also no hard for me:-)</item>
+    </string-array>
+    <string-array name="response_common">
+        <item>Here is the answer.</item>
+        <item>I got it for you.</item>
+        <item>See? I got it so fast!</item>
+    </string-array>
+</resources>
